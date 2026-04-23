@@ -211,3 +211,40 @@ body, html {
 	width: 100%;
 }
 
+h1 {
+	left: 10vw;
+	font-size: 3rem;
+} 
+
+h2 {
+	left: 13vw;
+	font-size: 1rem;
+}
+
+p {
+	bottom: -130%;
+	left: 2.3vw;
+	font-size: 1rem;
+}
+h3 {
+	bottom: -122%;
+	left: 2.3vw;
+	font-size: 2rem;
+}
+
+
+.image-bird {
+	width: 33vw;
+	left: 8vw;
+}
+
+.image-cow {
+	width: 33vw;
+	left: 32vw;
+	bottom: -92%;
+}
+
+.image-fish {
+	width: 33vw;
+	left: 59vw;
+}
