@@ -12,7 +12,7 @@ body::-webkit-scrollbar {
 
 
 .video-container {
-  position: relative;
+  position: fixed;
   display: inline-block; 
   line-height: 0;  
   display: block;
@@ -58,7 +58,6 @@ h1 {
 	font-size: 4rem;
 	z-index: 2; 
 	margin: 0;	
-	font-style: bold;
 } 
 
 h2 {
@@ -75,7 +74,7 @@ h2 {
 
 p {
 	position: absolute;
-	bottom: -128%;
+	bottom: -122%;
 	left: 3.7vw;
 	color: white;
 	font-size: 1.2rem;
@@ -86,7 +85,7 @@ p {
 }
 h3 {
 	position: absolute;
-	bottom: -122%;
+	bottom: -112%;
 	left: 2.8vw;
 	color: white;
 	font-size: 3rem;
@@ -138,7 +137,7 @@ h3 {
 	width: 13vw;
 	position:absolute;
 	left: 32vw;
-	bottom: -97%;
+	bottom: -80%;
 	z-index: 2;
 }
 .image-bird img {
@@ -150,7 +149,7 @@ h3 {
 	width: 13vw;
 	position:absolute;
 	left: 43vw;
-	bottom: -90%;
+	bottom: -73%;
 	z-index: 2;
 }
 .image-cow img {
@@ -161,7 +160,7 @@ h3 {
 	width: 13vw;
 	position:absolute;
 	left: 54vw;
-	bottom: -96%;
+	bottom: -79%;
 	z-index: 2;
 }
 .image-fish img {
@@ -222,12 +221,12 @@ h2 {
 }
 
 p {
-	bottom: -130%;
+	bottom: -122%;
 	left: 2.3vw;
 	font-size: 1rem;
 }
 h3 {
-	bottom: -122%;
+	bottom: -110%;
 	left: 2.3vw;
 	font-size: 2rem;
 }
@@ -241,10 +240,11 @@ h3 {
 .image-cow {
 	width: 33vw;
 	left: 32vw;
-	bottom: -92%;
+	bottom: -73%;
 }
 
 .image-fish {
 	width: 33vw;
 	left: 59vw;
+}
 }
