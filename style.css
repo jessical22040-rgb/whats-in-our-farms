@@ -13,9 +13,7 @@ body::-webkit-scrollbar {
 
 .video-container {
   position: fixed;
-  display: inline-block; 
   line-height: 0;  
-  display: block;
 }
 .video-tint {
   position: absolute;
