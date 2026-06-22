@@ -13,7 +13,7 @@ const data = [
 	subtitle: '&<o9> L</o9><o8>a</o8><o7>m</o7><o6>bs</o6>', 
 	next: "Cows", nextimg: "images/cows.jpg", 
 	gradient: "images/gradient-sheep.png",
-	change: "file:///G:/My%20Drive/2026/13Digi/Standard/Develop/Farm/index-sheep-3D.html"},
+	change: "index-sheep-3D.html"},
 	
 	
     { src: "images/cows.jpg", 
@@ -21,21 +21,21 @@ const data = [
 	subtitle: '&<o9> C</o9><o8>a</o8><o7>lv</o7><o6>es</o6>', 
 	next: "Other", nextimg: "images/horses.jpg", 
 	gradient: "images/gradient-cow.png",
-	change: "file:///G:/My%20Drive/2026/13Digi/Standard/Develop/Farm/cows.html"},
+	change: "cows.html"},
 	
 	    { src: "images/horses.jpg", 
 	title: 'O<o9>t</o9><o8>h</o8><o7>e</o7><o6>r</o6>', 
 	subtitle: 'A<o9>n</o9><o8>im</o8><o7>a</o7><o6>ls</o6>', 
 	next: "Other", nextimg: "images/flooding.jpg", 
 	gradient: "images/gradient-other.png",
-	change: "file:///G:/My%20Drive/2026/13Digi/Standard/Develop/Farm/other.html"},
+	change: "other.html"},
 	
 	{ src: "images/flooding.jpg", 
 	title: 'P<o9>ro</o9><o8>bl</o8><o7>ems</o7>', 
 	subtitle: '', 
 	next: "Sheep", nextimg: "images/sheep.jpg", 
 	gradient: "images/gradient-cow.png",
-	change: "file:///G:/My%20Drive/2026/13Digi/Standard/Develop/Farm/jess%20-%20code%20-%20farm/guardian.html"},
+	change: "jess%20-%20code%20-%20farm/guardian.html"},
 ];
 
 let currentIndex = 0;
